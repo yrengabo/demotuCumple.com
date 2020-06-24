@@ -1,0 +1,12 @@
+.galeria    {
+    display: flex;
+    justify-content: center;
+}
+
+
+.galeria img {
+
+ box-shadow: -9px 9px 9px #777;
+    opacity:0.9; 
+
+}
